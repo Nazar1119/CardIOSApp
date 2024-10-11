@@ -33,12 +33,15 @@ CardIOSApp is a workout-based realy common mobile application that adds fun and 
 3. Perform the exercise based on the suit and the number of the card.
 4. Tap "Restart" to shuffle the deck and start again.
 
-## Contributing
-We welcome contributions to CardIOSApp! Feel free to fork this repository and submit pull requests for any improvements, bug fixes, or new features.
+## Clone the Repository
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+If you'd like to contribute or run CardIOSApp on your local machine, you can clone the repository by following these steps:
 
----
+1. **Open your terminal** (Command Prompt, Git Bash, or any terminal you use).
+2. **Clone the repository** by running the following command:
+
+   ```bash
+   git clone https://github.com/Nazar1119/CardIOSApp.git
+
 
 Enjoy your workout with CardIOSApp! Get fit and have fun by letting the cards guide your exercise routine.
